@@ -9,7 +9,7 @@ Jet Central telemetry display for Jeti DS-24 Transmitter
 
 # Installation:
 - Download JCHDT.lc to Apps folder in your transmitter
-- Download /JetCentral/CF.png to Apps/JetCentral/ folder in your transmitter (If the folder doesn't exists, create it)
+- Download /JetCentral/CF.png to Apps/JetCentral/ folder in your transmitter (If the folder doesn't exists, create a folder called JetCentral inside Apps folder)
 - Go to: Menu > Applications > User Applications
 - Press [F3][+] and select JCHDT.lc
 - You can configure the App in: Menu > Timers/Sensors > Jet Central HDT

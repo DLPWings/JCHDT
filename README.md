@@ -32,5 +32,4 @@ You can enable "Demo Mode" in App settings and simulate values with:
 ![Screenshot 8](img/Screen008.png?raw=true "Screenshot8")
 ![Screenshot 9](img/Screen009.png?raw=true "Screenshot9")
 ![Screenshot 10](img/Screen010.png?raw=true "Screenshot10")
-![Screenshot 11](img/Screen011.png?raw=true "Screenshot11")
 ![Screenshot 12](img/Screen012.png?raw=true "Screenshot12")

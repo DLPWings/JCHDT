@@ -3,7 +3,7 @@ Jet Central telemetry display for Jeti DS-24 Transmitter
 
 # Requisites:
 * Updated V2 Jeti Telemetry Module from Jet Central
-* Transmitter firmware version 4.2 LUA or above 
+* Transmitter firmware version 4.27 LUA or above 
 
 # Installation:
 - Download JCHDT.lc to Apps folder in your transmitter

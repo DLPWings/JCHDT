@@ -1,3 +1,5 @@
+
+![Screenshot](img/Screen012.png?raw=true "Screenshot")
 # JCHDT
 Jet Central telemetry display for Jeti DS-24 Transmitter
 
@@ -32,4 +34,4 @@ You can enable "Demo Mode" in App settings and simulate values with:
 ![Screenshot 8](img/Screen008.png?raw=true "Screenshot8")
 ![Screenshot 9](img/Screen009.png?raw=true "Screenshot9")
 ![Screenshot 10](img/Screen010.png?raw=true "Screenshot10")
-![Screenshot 12](img/Screen012.png?raw=true "Screenshot12")
+

@@ -1,7 +1,7 @@
 
 ![Screenshot](img/Screen002.png?raw=true "Screenshot")
 # JCHDT
-Jet Central telemetry display for Jeti DS-24 Transmitter
+Jet Central telemetry display for Jeti DC/DS-24, DS-12 Transmitters
 
 # Requisites:
 * Updated V2 Jeti Telemetry Module from Jet Central

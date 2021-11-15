@@ -1,0 +1,6 @@
+V1.0 Initial Release
+
+V1.10
+  Added Flameout Alarm
+  Added Themes
+  Bugfix - Moved function calls to main loop. (Alarms did not trigger if app was not displayed on screen)
